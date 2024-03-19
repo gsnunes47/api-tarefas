@@ -2440,11 +2440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\api-tarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "projectName": "SistemaDeTarefas",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\api-tarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\api-tarefas\\SistemaDeTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

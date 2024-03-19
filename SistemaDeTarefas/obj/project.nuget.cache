@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aEsCl+p12iT/YjhyWdmzb8/oZKQVo6FHK+MdMin/Cr73YImkAOkhY4qlWIfDtb4HQswigRUDa+BgFmkSO3Xmag==",
+  "dgSpecHash": "t8HP4UBnAIA9wqNlQNWD5UI/Mq244qr+99vO1Ebz6HK48f20VJbIwX6AYljMQhGLx+CJzdIH0YlhRQHMmxoXIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Documentos\\MyWorks\\api-tarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
